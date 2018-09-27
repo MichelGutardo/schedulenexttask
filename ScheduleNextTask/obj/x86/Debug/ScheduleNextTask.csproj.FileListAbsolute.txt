@@ -1,0 +1,7 @@
+G:\DEV\Alone\Temporizador\Temporizador\bin\Debug\ScheduleNextTask.exe
+G:\DEV\Alone\Temporizador\Temporizador\bin\Debug\ScheduleNextTask.pdb
+G:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\ScheduleNextTask.FrmTask.resources
+G:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\ScheduleNextTask.Properties.Resources.resources
+G:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\ScheduleNextTask.csproj.GenerateResource.Cache
+G:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\ScheduleNextTask.exe
+G:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\ScheduleNextTask.pdb

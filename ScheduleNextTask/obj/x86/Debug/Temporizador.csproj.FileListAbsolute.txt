@@ -1,0 +1,15 @@
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\obj\x86\Debug\Temporizador.frmTarefas.resources
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\obj\x86\Debug\Temporizador.Properties.Resources.resources
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\obj\x86\Debug\Temporizador.csproj.GenerateResource.Cache
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\obj\x86\Debug\Temporizador.exe
+D:\DEV\TESTES\tstproject\Temporizador\Temporizador\obj\x86\Debug\Temporizador.pdb
+D:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\Temporizador.exe
+D:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\Temporizador.pdb
+D:\DEV\Alone\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+D:\DEV\Alone\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+D:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\Temporizador.csprojResolveAssemblyReference.cache
+D:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\Temporizador.frmTarefas.resources
+D:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\Temporizador.Properties.Resources.resources
+D:\DEV\Alone\Temporizador\Temporizador\obj\x86\Debug\Temporizador.csproj.GenerateResource.Cache
